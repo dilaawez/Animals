@@ -6,3 +6,5 @@ cow
 Horse
 Elephant
 Lion
+Rabbit
+Camel
