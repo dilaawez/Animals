@@ -3,3 +3,6 @@ Peacock
 cat
 dog
 cow
+Horse
+Elephant
+Lion
