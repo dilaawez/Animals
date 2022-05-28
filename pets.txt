@@ -1,0 +1,5 @@
+Parrot
+Peacock
+cat
+dog
+cow
